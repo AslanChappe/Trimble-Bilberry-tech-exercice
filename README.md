@@ -1,2 +1,2 @@
-# TrimbleTryout
-Trimble tech exercice from Aslan Chappe
+# Trimble / Bilberry : AI Engineer technical exercise
+from Aslan Chappe
